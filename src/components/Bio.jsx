@@ -6,7 +6,7 @@ const Bio = ({ name, username }) => {
               @{username}
             </p>
             <p className="mt-3 text-2xl">Front-end developer from Cebu City.</p>
-          </header>
+    </header>
     );
 };
 
